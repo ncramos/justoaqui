@@ -1,0 +1,88 @@
+
+a:link, a:visited, a:active{
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    text-decoration: none;
+    float: left;
+    margin: -50px 10px 30px 10px;
+    position: relative;
+    left: 70px;
+    
+}
+a:hover{
+    color:rgb(30, 29, 31);
+    background-color: #ec7310;
+    padding: 10px;
+}
+header{
+    background-color: rgb(30, 29, 31);
+  }
+.encabezado{
+    padding: 20px;  
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: url(/assets/images/fondoweb_Justoaqui.png);
+}
+h1{
+    color: rgb(30, 29, 31);
+    font-size: 50px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+ul{
+    list-style: none;
+}
+
+nav.barra_inicio{
+    background-color:rgb(30, 29, 31) ; 
+}
+.saludo_inicio{
+    color: rgb(10, 10, 10);
+    font-size: 40px;
+    margin-top: 10px;
+    
+}
+p{
+    letter-spacing: 0.3px;
+    line-height: 30px;
+    text-align: justify;
+}
+.contenido{
+    padding: 30px;
+    width: 50%;
+    background-color: #fac80a;
+}
+.registro{
+    padding: 30px;
+    border: rgb(30, 29, 31) solid; 
+    position:relative;
+    left: 300px;
+    width: 50%;
+}
+.formulario{
+    position: relative;
+    left:0 
+}
+
+.img-fluided{
+    float: left;
+    padding: 10px;
+    width: 10px;
+    height: 20px;
+}
+.card{
+    background-color: seashell;
+    height: auto;
+    
+}
+
+footer{
+    background-color: rgb(30, 29, 31);
+    color: #fac80a;
+}
+.pie{
+    text-align: center;
+}
+
